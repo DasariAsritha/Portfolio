@@ -8,3 +8,10 @@ Internships: A presentation of my internships, including descriptions and techno
 Extracurricular Activities: Here is a list of the activities in which I have participated.
 Technologies Used
 Frontend: HTML, CSS.
+
+Getting Started
+To run this project locally, follow these steps:
+Clone the repository:
+git clone https://github.com/DasariAsritha/Portfolio-Website.git
+Navigate to the project directory:
+cd Portfolio-Website
